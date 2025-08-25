@@ -1,6 +1,6 @@
 # Deep Learning Paper Reimplementations
 
-This repository contains my implementations of influential deep learning papers, focusing on computer vision and generative models. Each implementation is done in PyTorch and includes Jupyter notebooks with detailed explanations and training procedures.
+This repository contains my implementations of influential deep learning papers (made public), organized by chronological order + with importance on why its importance.
 
 ## Implemented Papers
 
